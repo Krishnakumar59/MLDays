@@ -1,0 +1,5 @@
+0 Cup
+1 Bottle
+2 Mobile Phone
+3 Watch
+4 Khaini
